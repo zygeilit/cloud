@@ -51,7 +51,7 @@
 
 #### 自定义构建流程
 * 拆分Jenkins构建流程，可使用模式元数据自定义构建流程，并可以加入自定义构建策略
-* [Gitlab CI](https://about.gitlab.com/features/gitlab-ci-cd/)
+* 可以使用[Gitlab CI](https://about.gitlab.com/features/gitlab-ci-cd/)，Gitlab CI部署事实起来和前者比起来成本较大
 
 #### 动态打包机制
 * 和目前的静态打包不同，动态打包通过元数据动态拼装多个组件输出到前端
