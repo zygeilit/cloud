@@ -6,9 +6,9 @@
 -----------
 前端工程化是以规范工作流程为手段，以工具实现为媒介，其最终目的是为了提高研发效率以及保证Web产品的线上质量，规范为蓝本，工具为实现
 
-工程化下的模式驱动的组件规范
+工程化下的模式驱动的规范
 -----------
-用模式驱动实现组件开发规范化（[spb-builder](https://github.com/zygeilit/spb-builder)）
+用模式驱动实现的工程化规范（[spb-builder](https://github.com/zygeilit/spb-builder)）
 
 解耦
 
