@@ -17,7 +17,7 @@
 * 工程化目标导向（在此为实现平台组件生态圈）
 * 项目开发的诟病（i.e：CSS、版本升级带来的BUG）
 
-具体的设计思路和实现见：[spb-builder]()
+具体的设计思路和实现见：[spb-builder](https://github.com/zygeilit/spb-builder)
 
 在模式驱动实现的规范之上的工具链（组件标准化）
 -----------
