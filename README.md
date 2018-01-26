@@ -26,17 +26,17 @@
 
 运行态
 -----------
- * 解析器支持React
-   ** React组件[Slot模块](https://www.npmjs.com/package/react-slot)
- * 解析器提出组件联动的标准接口（输入、输出）
+解析器支持React
+* React组件[Slot模块](https://www.npmjs.com/package/react-slot)
+解析器提出组件联动的标准接口（输入、输出）
 
 Pagebuilder
 -----------
- * 注册方案
- > 替换掉之前的组件注册方案
- * 事件配置
- > Pagebuilder支持事件的配置
- >> i.e 配置事件属性组件，可配置组合面板中的组件事件，元数据从组件中获取
+注册方案
+* 替换掉之前的组件注册方案
+事件配置
+* Pagebuilder支持事件的配置
+> i.e 配置事件属性组件，可配置组合面板中的组件事件，元数据从组件中获取
 
 CI构建
 -----------
