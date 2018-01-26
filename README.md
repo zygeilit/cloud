@@ -2,7 +2,7 @@
 # Cloud平台组件生态圈
 在模式开发的基础之上，实现Cloud平台组件生态圈、结合运行态、开发态（Pagebuilder），全部实现自动化
 
-模式开发
+模式驱动的组件设计
 -----------
 [spb-builder](https://github.com/zygeilit/spb-builder)
 
