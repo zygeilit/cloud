@@ -39,7 +39,7 @@ Pull Request
 运行态解析器
 -----------
 支持React
-* React组件[Slot模块](https://www.npmjs.com/package/react-slot)
+* [React Slot](https://www.npmjs.com/package/react-slot)
 
 事件联动的标准接口
 * 输入、输出
