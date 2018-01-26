@@ -41,7 +41,7 @@
 * 提供搜索功能，结合 builder.json 提取文档相关配置，搜索时进行整合从 Gitlab 上提取 README.md
 
 #### 自动化测
-* 单元测试
+* 执行自动化测试并对版本打标记
 
 #### Gitlab Pull Request
 * 自动化测试（单元测试）
