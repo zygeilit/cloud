@@ -41,7 +41,8 @@ Pull Request
 解析器支持React
 * React组件[Slot模块](https://www.npmjs.com/package/react-slot)
 
-解析器提出组件联动的标准接口（输入、输出）
+事件联动的标准接口
+* 输入、输出
 
 Pagebuilder
 -----------
