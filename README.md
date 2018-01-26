@@ -8,7 +8,7 @@
 
 模式驱动的组件设计
 -----------
-[spb-builder](https://github.com/zygeilit/spb-builder)
+用模式开发实现软件规范化的执行[spb-builder](https://github.com/zygeilit/spb-builder)
 
 解耦
 
