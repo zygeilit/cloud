@@ -50,7 +50,7 @@
 * 变更记录
 
 #### 自定义构建流程
-* 拆分目前Jenkins构建流程，可使用json调整构建流程并可以加入自定义构建策略
+* 拆分Jenkins构建流程，可使用json调整构建流程并可以加入自定义构建策略
 * [Gitlab CI](https://about.gitlab.com/features/gitlab-ci-cd/)
 
 #### 动态打包机制
