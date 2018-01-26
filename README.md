@@ -53,8 +53,6 @@
 #### 自定义构建流程
 * [Gitlab CI](https://about.gitlab.com/features/gitlab-ci-cd/)
 
-#### 灰度
-
 #### 动态打包机制
 * 和目前的静态打包不同，动态打包通过元数据动态拼装多个组件输出到前端
 
