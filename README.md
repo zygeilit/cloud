@@ -6,6 +6,12 @@
 -----------
 [spb-builder](https://github.com/zygeilit/spb-builder)
 
+解耦
+
+规范是蓝本，工具是手段，是实现标准化的手段
+
+使用JSON来描述，以及创建组件项目(CLI)，工程化的问题在模式基础之上(.builder.json)，提供解决方案
+
 组件标准化
 -----------
 #### 文档
