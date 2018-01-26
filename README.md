@@ -40,9 +40,9 @@ Pagebuilder
 
 CI构建
 -----------
- * 自定义构建流程（Gitlab-ci)
-   ** https://about.gitlab.com/features/gitlab-ci-cd/
- * 灰度
+自定义构建流程
+* [Gitlab CI](https://about.gitlab.com/features/gitlab-ci-cd/)
+灰度
 
 动态打包机制
 -----------
