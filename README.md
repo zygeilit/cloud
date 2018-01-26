@@ -36,9 +36,9 @@ Pull Request
 * 自动化测试（单元测试）
 * 变更记录
 
-运行态
+运行态解析器
 -----------
-解析器支持React
+支持React
 * React组件[Slot模块](https://www.npmjs.com/package/react-slot)
 
 事件联动的标准接口
